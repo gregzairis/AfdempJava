@@ -32,7 +32,7 @@ public class HomeWork1 {
        b = input.nextInt();
        c = input.nextInt();
        
-       if ((b>=2*a) && (c>a+b) ) {
+       if ((b>=3*a) && (c>a+b) ) {
            condition = !condition;
        }
        
