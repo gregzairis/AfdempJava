@@ -81,4 +81,3 @@ public class Matrix3x3x3
     }
     
 
-// Task ga to spiti selida 236
